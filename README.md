@@ -23,6 +23,5 @@
 ## Weboldalunk
 
 - weboldal elérése: https://dartsmester.byethost33.com/
-- 
-- Törekedtünk arra, hogy az elkészült oldal a feladatkiírás alapján minden elemet tartalmazzon, könnyen használható legyen és bemutassa azt, hogy mindhárman képesek vagyunk eligazodni a keretrendszer használata során. 
+
 
