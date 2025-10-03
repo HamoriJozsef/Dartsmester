@@ -2,14 +2,27 @@
 ## Dartsmester projekt
 - A csapat tagjai: Pusztafalvi Zsuzsa Rita, Bordás Zoltán, Hámori József
 - ---
+## Keretrendszer, domain, tárhely
+
 - A weboldal elkészítéséhez a wordpress alkalmazást választottuk, mint keretrendszert. Az ingyenes tárhelyhez és a domainhez pedig a Cpanel-en regisztrálva, fiókot létrehozva jutottunk hozzá. A fiókon belül lehetőség van telepíteni a wordpress alkalmazást és az ingyenesen használható sablonokkal dolgozni. A projektmunka során a keretrendszer ingyenes verziójának használata miatt ugyan kellett kompromisszumokat kötnünk az eredeti terveinkhez képest, ugyanakkor az elérhető tárhely mérete lehetővé tette a weboldal sablonja mellett több, plusz bővítmény használatát is.
 - A munka során személyesen és messengeren tartottuk a kapcsolatot, így könnyen és hatékonyan tudtunk együtt dolgozni. A tervezési szakaszban elsősorban személyesen egyeztettünk, ötleteltünk és kiosztottuk a feladatokat. Így a megvalósítás során elegendő volt messengeren jelezni a többiek felé ha elkészült valami, változtatni kellett, vagy csak véleményeztetni akartunk egy újabb ötletet.
+- ---
+## A projekt ötlet bemutatása
+
 - A dartsmester klub egy fiktív sportklub, melynek alapítói a miskolci egyetem hallgatói. A céljuk népszerűsíteni a dartsot, mint sportágat és lehetőséget teremteni nemzetközi versenyeken való részvételre. Ennek érdekében az alapítók különböző szintű edzéseket tartanak heti rendszereséggel, melyek bevételéből és a pályabérlések után befolyó összegből fejlesztik a klub eszköz állományát és támogatják a versenyeken való részvételt. A klub célcsoportja elsősorban a helyi egyetemistákból áll, de bárki csatlakozhat akit érdekel ez a sport.
+- ---
+## Megvalósítás
+
 - Az alapötlet és a célcsoport meghatározása után a következő lépés a wordpress sablon kiválasztása volt. Alaposan átgondoltuk, hogy mi az, amit meg kell jelenítenünk a honlapon, milyen design-t szeretnénk és ennek megfelelően választottunk ki a sablonunkat. Olyanra volt szükségünk, ami engedi szerkeszteni a feladatban megjelölt elemeket és design szempontból is olyanná formálható, amit elképzeltünk. A sablonunk header és footer része egyaránt szerkeszthető, így lehetőségünk volt a logót elhelyezni, a menüt szerkeszteni, a színvilágot és betűtípust meghatározni, illetve a footer-ben létrehozni a minden oldalon megjelenő elemeket, mint például a fontosabb oldalakra mutató linkeket és a közösségi médiához kapcsolódó widget-eket. 
 - A weboldalunk a kezdő oldalon kívül további hét oldalt tartalmaz. Aloldalak létrehozását egyik oldal esetében sem tartottuk szükségesnek, mert a felhasználói élményt jobban támogatja a jelenlegi szerkezet, átlátható, illetve az oldalon elhelyezett információ mennyisége sem tette ezt szükségessé. Kényelmi funkcióként gombokat helyeztünk el a kezdőoldal alján, illetve az edzések bemutatása mellett, hogy könnyen át lehessen navigálni a következő lépéshez, ami a látogatót érdekelheti, anélkül hogy vissza kelljen görgetniük a menühöz.
 - Az oldal reszponzív, így akármilyen eszközön könnyen átlátható és használható.
 - A weboldalon látható logót és a képek egy részét ChatGpt segítségével készítettük el, a többi képet ingyenesen letölthető fotók közül választottuk ki közösen. A bemutatkozás és az edzések leírása saját ötlet.
 - Az ingyenesen telepíthető bővítmények közül egyet használtunk a regisztrációs lehetőség szerkesztéséhez, egy másikat az edzés típusának és időpontjának kiválasztásával egybekötött jelentkezéshez, illetve egy harmadikat a térkép megjelenítéséhez.
 - A regisztráció kitöltésével és az edzésre való jelentkezések kapcsán a látogatók által megadott információk külön adatbázisokban mentésre kerülnek, visszakereshetőek. A regisztrációt beküldők „feliratkozó” jogosultsággal kerülnek a rendszerbe, de ez az adminisztrátorok által módosítható utólag.
-- Törekedtünk arra, hogy az elkészült oldal a feladatkiírás alapján minden elemet tartalmazzon, könnyen használható legyen és bemutassa azt, hogy mindhárman képesek vagyunk eligazodni a keretrendszer használata során. 
+- ---
+## Weboldalunk
+
 - weboldal elérése: https://dartsmester.byethost33.com/
+- 
+- Törekedtünk arra, hogy az elkészült oldal a feladatkiírás alapján minden elemet tartalmazzon, könnyen használható legyen és bemutassa azt, hogy mindhárman képesek vagyunk eligazodni a keretrendszer használata során. 
+
