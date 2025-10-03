@@ -11,4 +11,4 @@
 - Az ingyenesen telepíthető bővítmények közül egyet használtunk a regisztrációs lehetőség szerkesztéséhez, egy másikat az edzés típusának és időpontjának kiválasztásával egybekötött jelentkezéshez, illetve egy harmadikat a térkép megjelenítéséhez.
 - A regisztráció kitöltésével és az edzésre való jelentkezések kapcsán a látogatók által megadott információk külön adatbázisokban mentésre kerülnek, visszakereshetőek. A regisztrációt beküldők „feliratkozó” jogosultsággal kerülnek a rendszerbe, de ez az adminisztrátorok által módosítható utólag.
 - Törekedtünk arra, hogy az elkészült oldal a feladatkiírás alapján minden elemet tartalmazzon, könnyen használható legyen és bemutassa azt, hogy mindhárman képesek vagyunk eligazodni a keretrendszer használata során. 
-weboldal elérése: https://dartsmester.byethost33.com/
+- weboldal elérése: https://dartsmester.byethost33.com/
